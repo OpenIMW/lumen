@@ -11,7 +11,6 @@
 |
 */
 
-$router->get('/', function () use ($router)
-{
+$router->get('/', function () use ($router) {
 	return "Hello world! from routes/web.php";
 });
