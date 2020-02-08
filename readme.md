@@ -11,7 +11,7 @@ composer serve
 ```
 
 ## Configure
-Open bootstrap/configure.php and add providers, middlewares, enable eloquent...
+Open `bootstrap/configure.php` and add providers, middlewares, enable eloquent...
 
 
 ## Official Documentation
